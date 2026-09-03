@@ -1,0 +1,77 @@
+# ============================================================
+# Unreal Engine 5.7
+# C++ + JetBrains Rider
+# ============================================================
+
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Build folders
+Build/BatchFiles/
+Build/Receipts/
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userprefs
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Generated project files
+*.sln
+*.sdf
+*.opensdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.obj
+*.lib
+*.exp
+*.ilk
+*.iobj
+*.ipdb
+
+# Unreal temporary files
+*.tmp
+*.log
+*.bak
+
+# Crash reports
+crashinfo--*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Unreal local cache
+LocalBuilds/
+
+# Packaged builds
+Packaged/
+Packaging/
+StagedBuilds/
+
+# ============================================================
+# IMPORTANT: DO NOT IGNORE THESE
+# ============================================================
+# Content/
+# Config/
+# Source/
+# Plugins/
+# *.uproject
+# *.uasset
+# *.umap
